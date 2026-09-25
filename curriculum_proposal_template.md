@@ -80,10 +80,18 @@ The middle portion of every session (40 minutes) will be designated as a collabo
 
 To successfully launch this takeover, sessions will leverage the following suite:
 
-* **Software:** Python 3.x, Mu Editor or VS Code, Wokwi (for virtual microelectronics simulation).
+* **Software:** Python 3.x, Mu Editor or VS Code, Wokwi (for virtual microelectronics simulation), [ChipKids](https://chipkids.org/) for MicroChip learning
 * **Hardware Options:**
   * *Option A (100% Virtual):* [Wokwi Simulator](https://wokwi.com/) for zero-cost hardware emulation.
+    * As much as possible, show the students the creation of these devices, show them why coding is important - iterative
+      * Video: [TSMC Arizona: A Journey of Innovation and Collaboration](https://www.youtube.com/watch?v=eEsK-GJ9nBU)
+      * Video: [What Is A Semiconductor?](https://youtu.be/gUmDVe6C-BU?si=0_My5kjcu_2ZVe_T)
+    * **Just as useful**, much better use of time to keep digital, showing the process of microelectronics
+    * Won't have to worry about troubleshooting hardware, way tougher than software
+    * **Student Collaboration** - sending screenshots throughout the week of progress, interact with platforms other than Saturday mornings
+    * Breakout Rooms - allow older students to give challenges to younger peers, Meeting/Activity Protocol, work alongside of Block Coding to teach and explain to younger peers their Python development
   * *Option B (Physical Kits):* Raspberry Pi Pico H, standard breadboard, jumper wires, joysticks, and tactile buttons.
+    * **More for the summer cohort**
 
 ---
 
@@ -92,3 +100,11 @@ To successfully launch this takeover, sessions will leverage the following suite
 * Approval on physical vs. virtual microelectronics approach.
 * Adjusting session lengths to accommodate hardware troubleshooting in an online environment.
 * Setting a date for a pilot run of the Q1/Q2 hybrid project.
+* If you ever need help, email Kristen, and Kristen can bring people in, get some dates!!!
+  * Bill Warger, ThorLabs
+  * NJ Educators, Community College realm
+* Have older children look into [Quantum Computing](https://www.ibm.com/quantum), more towards the end or even if you feel the older children getting bored
+  * Classical Computing - Bits
+  * Quantum Computing - QuBits - 0 and 1 at the same time
+  * Princeton Scientists are understanding how to use photons to compute, quantum computers around the country, very cold to slow everything down enough
+  * Quantum Read Aloud and speaker
