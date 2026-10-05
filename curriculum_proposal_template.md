@@ -83,6 +83,11 @@ To successfully launch this takeover, sessions will leverage the following suite
 * **Software:** Python 3.x, Mu Editor or VS Code, Wokwi (for virtual microelectronics simulation), [ChipKids](https://chipkids.org/) for MicroChip learning
 * **Hardware Options:**
   * *Option A (100% Virtual):* [Wokwi Simulator](https://wokwi.com/) for zero-cost hardware emulation.
+    * [Gamemaker](https://gamemaker.io/en) with Miss Janelle
+      * 2 sessions a month, **1st and 3rd Saturdays of the Month**
+      * Smaller groups, peer accountability, keeping them up to date with home and schoolwork
+         * Big brother system, Navigator/Driver, keep it to 2
+      * Demo tutorials through Code.org
     * As much as possible, show the students the creation of these devices, show them why coding is important - iterative
       * Video: [TSMC Arizona: A Journey of Innovation and Collaboration](https://www.youtube.com/watch?v=eEsK-GJ9nBU)
       * Video: [What Is A Semiconductor?](https://youtu.be/gUmDVe6C-BU?si=0_My5kjcu_2ZVe_T)
