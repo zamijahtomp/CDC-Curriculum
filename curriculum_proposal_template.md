@@ -102,6 +102,7 @@ To successfully launch this takeover, sessions will leverage the following suite
 
 ## 5. Next Steps & Discussion Points for Admin
 
+* Have Professionals come in and be judges, prizes and incentives for scholars!
 * Approval on physical vs. virtual microelectronics approach.
 * Adjusting session lengths to accommodate hardware troubleshooting in an online environment.
 * Setting a date for a pilot run of the Q1/Q2 hybrid project.
