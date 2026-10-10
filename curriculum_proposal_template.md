@@ -1,6 +1,6 @@
 # Annual Curriculum Proposal: Python, Code.Org, Game Development, AI & Microelectronics
 
-**Instructor:** Miss Chilli  
+**Instructor:** Miss Chilli & Miss Janelle
 **Target Audience:** 3-5 Grade (Code.org) & 6-8 Grade (Python)  
 **Academic Year:** 2026–2027  
 **Status:** Pitch / Draft for Session Takeover  
